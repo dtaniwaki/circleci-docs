@@ -254,6 +254,6 @@ CircleCI には並列の Executor 間でのテスト分割処理を完全に制�
 ## 次のステップ
 {: #next-steps }
 
-* [テスト分割のとラブルシューティング]({{ site.baseurl }}/ja/2.0/troubleshoot-test-splitting/)
+* [テスト分割のトラブルシューティング]({{ site.baseurl }}/ja/2.0/troubleshoot-test-splitting/)
 * [テストデータの収集]({{ site.baseurl }}/ja/2.0/collect-test-data/)
 * [テスト インサイト]({{ site.baseurl }}/ja/2.0/insights-tests/)
